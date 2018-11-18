@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://www.wings-workflows.org/ontology/data.owl#"
+    xmlns:j.1="http://localhost:8080/wings-portal/export/users/admin/MINT-DaniLocal-10-4-2018/data/ontology.owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+      xml:base="http://localhost:8080/wings-portal/export/users/admin/MINT-DaniLocal-10-4-2018/data/library.owl">
+      <j.1:Recharge rdf:ID="frey.rch">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/frey.rch</j.0:hasLocation>
+      </j.1:Recharge>
+      <j.1:MF_NWT rdf:ID="frey.upw">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/frey.upw</j.0:hasLocation>
+      </j.1:MF_NWT>
+      <j.1:MF_2005 rdf:ID="OGLL_N-31103-TR_OGLL_N.nam">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/OGLL_N-31103-TR_OGLL_N.nam</j.0:hasLocation>
+      </j.1:MF_2005>
+      <j.1:MF_NWT rdf:ID="frey.riv">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/frey.riv</j.0:hasLocation>
+      </j.1:MF_NWT>
+      <j.1:Oc rdf:ID="OGLL_N-31103-TR_OGLL_N.oc">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/OGLL_N-31103-TR_OGLL_N.oc</j.0:hasLocation>
+      </j.1:Oc>
+      <j.1:MF_NWT rdf:ID="frey.list">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/frey.list</j.0:hasLocation>
+      </j.1:MF_NWT>
+      <j.1:MAP rdf:ID="zonef_mlt.zbr">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/zonef_mlt.zbr</j.0:hasLocation>
+      </j.1:MAP>
+      <j.1:Pcg rdf:ID="OGLL_N-31103-TR_OGLL_N.pcg">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/OGLL_N-31103-TR_OGLL_N.pcg</j.0:hasLocation>
+      </j.1:Pcg>
+      <j.1:Dis rdf:ID="OGLL_N-31103-TR_OGLL_N.dis">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/OGLL_N-31103-TR_OGLL_N.dis</j.0:hasLocation>
+      </j.1:Dis>
+      <j.1:Well rdf:ID="OGLL_N-31103-TR_OGLL_N.wel">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/OGLL_N-31103-TR_OGLL_N.wel</j.0:hasLocation>
+      </j.1:Well>
+      <j.1:MF_NWT rdf:ID="frey.dis">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/frey.dis</j.0:hasLocation>
+      </j.1:MF_NWT>
+      <j.1:Drn rdf:ID="Barton_Springs_2005_DRN.DAT">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/Barton_Springs_2005_DRN.DAT</j.0:hasLocation>
+      </j.1:Drn>
+      <j.1:Sip rdf:ID="Barton_Springs_2005_SIP.DAT">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/Barton_Springs_2005_SIP.DAT</j.0:hasLocation>
+      </j.1:Sip>
+      <j.1:MF_NWT rdf:ID="frey.bas">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/frey.bas</j.0:hasLocation>
+      </j.1:MF_NWT>
+      <j.1:MF_NWT rdf:ID="frey.pcg">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/frey.pcg</j.0:hasLocation>
+      </j.1:MF_NWT>
+      <j.1:Hfb rdf:ID="Barton_Springs_2005_SPRING.hf6">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/Barton_Springs_2005_SPRING.hf6</j.0:hasLocation>
+      </j.1:Hfb>
+      <j.1:Bcf rdf:ID="Barton_Springs_2005_SPRING.bc6">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/Barton_Springs_2005_SPRING.bc6</j.0:hasLocation>
+      </j.1:Bcf>
+      <j.1:Bas rdf:ID="Barton_Springs_2005_SPRING.ba6">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/Barton_Springs_2005_SPRING.ba6</j.0:hasLocation>
+      </j.1:Bas>
+      <j.1:Drn rdf:ID="OGLL_N-31103-TR_OGLL_N.drn">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/OGLL_N-31103-TR_OGLL_N.drn</j.0:hasLocation>
+      </j.1:Drn>
+      <j.1:ParameterFile rdf:ID="Mendota.para">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/Mendota.para</j.0:hasLocation>
+      </j.1:ParameterFile>
+      <j.1:MF_NWT rdf:ID="frey.nam">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/frey.nam</j.0:hasLocation>
+      </j.1:MF_NWT>
+      <j.1:Bas rdf:ID="OGLL_N-31103-TR_OGLL_N.ba6">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/OGLL_N-31103-TR_OGLL_N.ba6</j.0:hasLocation>
+      </j.1:Bas>
+      <j.1:Dis rdf:ID="Barton_Springs_2005_SPRING.dis">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/Barton_Springs_2005_SPRING.dis</j.0:hasLocation>
+      </j.1:Dis>
+      <j.1:MF_NWT rdf:ID="frey.oc">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/frey.oc</j.0:hasLocation>
+      </j.1:MF_NWT>
+      <j.1:MF_NWT rdf:ID="frey.drn">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/frey.drn</j.0:hasLocation>
+      </j.1:MF_NWT>
+      <j.1:MF_NWT rdf:ID="frey.cbc">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/frey.cbc</j.0:hasLocation>
+      </j.1:MF_NWT>
+      <j.1:MF_NWT rdf:ID="frey.hds">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/frey.hds</j.0:hasLocation>
+      </j.1:MF_NWT>
+      <j.1:Recharge rdf:ID="Barton_Springs_2005_RCH.DAT">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/Barton_Springs_2005_RCH.DAT</j.0:hasLocation>
+      </j.1:Recharge>
+      <j.1:Bcf rdf:ID="OGLL_N-31103-TR_OGLL_N.bc6">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/OGLL_N-31103-TR_OGLL_N.bc6</j.0:hasLocation>
+      </j.1:Bcf>
+      <j.1:Well rdf:ID="frey.wel">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/frey.wel</j.0:hasLocation>
+      </j.1:Well>
+      <j.1:Recharge rdf:ID="OGLL_N-31103-TR_OGLL_N.rch">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/OGLL_N-31103-TR_OGLL_N.rch</j.0:hasLocation>
+      </j.1:Recharge>
+      <j.1:MF_NWT rdf:ID="frey.lpf">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/frey.lpf</j.0:hasLocation>
+      </j.1:MF_NWT>
+      <j.1:MF_NWT rdf:ID="frey.nwt">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/frey.nwt</j.0:hasLocation>
+      </j.1:MF_NWT>
+      <j.1:River rdf:ID="OGLL_N-31103-TR_OGLL_N.riv">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/OGLL_N-31103-TR_OGLL_N.riv</j.0:hasLocation>
+      </j.1:River>
+      <j.1:Recharge rdf:ID="bs-TRBAR.rch">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/bs-TRBAR.rch</j.0:hasLocation>
+      </j.1:Recharge>
+      <j.1:Oc rdf:ID="Barton_Springs_2005_OC.DAT">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/Barton_Springs_2005_OC.DAT</j.0:hasLocation>
+      </j.1:Oc>
+      <j.1:Well rdf:ID="Barton_Springs_2005_WEL.DAT">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/Barton_Springs_2005_WEL.DAT</j.0:hasLocation>
+      </j.1:Well>
+      <j.1:Ghb rdf:ID="OGLL_N-31103-TR_OGLL_N.ghb">
+            <j.0:hasLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >/usr/local/tomcat/temp/domain-5409563210401941678-temp/MINT-DaniLocal-10-4-2018/data/OGLL_N-31103-TR_OGLL_N.ghb</j.0:hasLocation>
+      </j.1:Ghb>
+</rdf:RDF>

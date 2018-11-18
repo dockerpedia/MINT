@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+      xml:base="http://localhost:8080/wings-portal/export/users/admin/MINT-DaniLocal-10-4-2018/data/ontology.owl">
+      <owl:Class rdf:ID="Oc">
+            <rdfs:subClassOf>
+                  <owl:Class rdf:ID="MFinput"/>
+            </rdfs:subClassOf>
+      </owl:Class>
+      <owl:Class rdf:ID="Sip">
+            <rdfs:subClassOf>
+                  <owl:Class rdf:about="#MFinput"/>
+            </rdfs:subClassOf>
+      </owl:Class>
+      <owl:Class rdf:ID="Budget">
+            <rdfs:subClassOf>
+                  <owl:Class rdf:ID="ModelOutput"/>
+            </rdfs:subClassOf>
+      </owl:Class>
+      <owl:Class rdf:ID="Bcf">
+            <rdfs:subClassOf>
+                  <owl:Class rdf:about="#MFinput"/>
+            </rdfs:subClassOf>
+      </owl:Class>
+      <owl:Class rdf:ID="River">
+            <rdfs:subClassOf>
+                  <owl:Class rdf:about="#MFinput"/>
+            </rdfs:subClassOf>
+      </owl:Class>
+      <owl:Class rdf:ID="MAP">
+            <rdfs:subClassOf rdf:resource="http://www.wings-workflows.org/ontology/data.owl#DataObject"/>
+      </owl:Class>
+      <owl:Class rdf:about="#MFinput">
+            <rdfs:subClassOf rdf:resource="http://www.wings-workflows.org/ontology/data.owl#DataObject"/>
+      </owl:Class>
+      <owl:Class rdf:ID="Hfb">
+            <rdfs:subClassOf rdf:resource="#MFinput"/>
+      </owl:Class>
+      <owl:Class rdf:about="#ModelOutput">
+            <rdfs:subClassOf rdf:resource="http://www.wings-workflows.org/ontology/data.owl#DataObject"/>
+      </owl:Class>
+      <owl:Class rdf:ID="Ddown">
+            <rdfs:subClassOf rdf:resource="#ModelOutput"/>
+      </owl:Class>
+      <owl:Class rdf:ID="Drn">
+            <rdfs:subClassOf rdf:resource="#MFinput"/>
+      </owl:Class>
+      <owl:Class rdf:ID="ParameterFile">
+            <rdfs:subClassOf rdf:resource="http://www.wings-workflows.org/ontology/data.owl#DataObject"/>
+      </owl:Class>
+      <owl:Class rdf:ID="Global">
+            <rdfs:subClassOf rdf:resource="#ModelOutput"/>
+      </owl:Class>
+      <owl:Class rdf:ID="Heads">
+            <rdfs:subClassOf rdf:resource="#ModelOutput"/>
+      </owl:Class>
+      <owl:Class rdf:ID="Well">
+            <rdfs:subClassOf rdf:resource="#MFinput"/>
+      </owl:Class>
+      <owl:Class rdf:ID="Recharge">
+            <rdfs:subClassOf rdf:resource="#MFinput"/>
+      </owl:Class>
+      <owl:Class rdf:ID="List">
+            <rdfs:subClassOf rdf:resource="#ModelOutput"/>
+      </owl:Class>
+      <owl:Class rdf:ID="Mt3c">
+            <rdfs:subClassOf rdf:resource="#MFinput"/>
+      </owl:Class>
+      <owl:Class rdf:ID="Ghb">
+            <rdfs:subClassOf rdf:resource="#MFinput"/>
+      </owl:Class>
+      <owl:Class rdf:ID="Dis">
+            <rdfs:subClassOf rdf:resource="#MFinput"/>
+      </owl:Class>
+      <owl:Class rdf:ID="Bas">
+            <rdfs:subClassOf rdf:resource="#MFinput"/>
+      </owl:Class>
+      <owl:Class rdf:ID="ZoneBudget">
+            <rdfs:subClassOf rdf:resource="http://www.wings-workflows.org/ontology/data.owl#DataObject"/>
+      </owl:Class>
+      <owl:Class rdf:ID="MF_NWT">
+            <rdfs:subClassOf rdf:resource="#MFinput"/>
+      </owl:Class>
+      <owl:Class rdf:ID="MF_2005">
+            <rdfs:subClassOf rdf:resource="#MFinput"/>
+      </owl:Class>
+      <owl:Class rdf:ID="Pcg">
+            <rdfs:subClassOf rdf:resource="#MFinput"/>
+      </owl:Class>
+</rdf:RDF>
