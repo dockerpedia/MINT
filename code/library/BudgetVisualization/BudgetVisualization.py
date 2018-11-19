@@ -76,8 +76,8 @@ for idx, t in enumerate(times):
 
     recname = 'STORAGE'
     labels = ['ZONE_1', 'ZONE_2', 'ZONE_3']
-    values_in = storage[(storage.name =='{}_IN'.format(recname)) & (storage.totim == t)][labels].T.squeeze()
-    values_out = storage[(storage.name =='{}_IN'.format(recname)) & (storage.totim == t)][labels].T.squeeze() * -1
+    values_in = storage[(storage.name =='FROM_{}'.format(recname)) & (storage.totim == t)][labels].T.squeeze()
+    values_out = storage[(storage.name =='FROM_{}'.format(recname)) & (storage.totim == t)][labels].T.squeeze() * -1
 
     rects_in, rects_out = volumetric_budget_bar_plot(values_in, values_out, labels, ax=ax)
 
